@@ -57,12 +57,12 @@ PhysioNet provides:
 Predict **oral temperature (monitor mode)** from facial IRT-derived features + context.
 
 ### Typical preprocessing
-A standard supervised ML pipeline for tabular regression is used:
+A standard supervised ML pipeline for regression is used:
 - train/test split (hold-out test set),
 - imputation for missing values,
 - one-hot encoding for categorical predictors (e.g., Age group, Ethnicity),
 - scaling where appropriate (especially for neural nets).
-
+- tuning of hyperparameters done with a RandomizedSearchCV
 ### Models evaluated 
 The project notebook includes:
 - Linear Regression (baseline),
