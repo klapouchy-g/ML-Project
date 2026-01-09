@@ -1,4 +1,5 @@
-# Regression ML — Predicting Oral Temperature from Facial Infrared Thermography
+# Regression ML 
+# Predicting Oral Temperature from Facial Infrared Thermography
 
 ## PROJECT OVERVIEW
 
