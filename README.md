@@ -51,7 +51,7 @@ PhysioNet provides:
 
 ---
 
-## MODELING APPROACH (REGRESSION)
+## MODELING APPROACH
 
 ### Goal
 Predict **oral temperature (monitor mode)** from facial IRT-derived features + context.
