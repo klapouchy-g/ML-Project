@@ -1,6 +1,6 @@
 # Regression ML 
 # Predicting Oral Temperature from Facial Infrared Thermography
-
+# Kacper Geisshirt, Shagufta Shaheen
 ## PROJECT OVERVIEW
 
 Infrared thermography (IRT) is widely used for **non-contact screening** of elevated body temperature (EBT), especially during infectious disease outbreaks. In practice, however, IRT-based fever screening can be inconsistent because accuracy depends on **device quality** and **deployment conditions** (ambient temperature, distance, humidity, ROI choice, calibration, etc.).
